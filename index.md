@@ -1,3 +1,5 @@
+
+{% include 06-Add-table.md %}
 ---
 layout: default
 ---
