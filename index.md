@@ -1,4 +1,3 @@
-
 ---
 layout: default
 ---
@@ -6,7 +5,9 @@ layout: default
 {% include 01-name.md %}
 
 <br>
+{% include 02-image.md %}
 
+<br>
 
 {% include 05-emphasis.md %}
 
@@ -20,9 +21,7 @@ layout: default
 {% include 08-checkbox.md %}
 
 <br>
-{% include 02-image.md %}
 
-<br>
 {% include 06-summary-dropdown.md %}
 
 <br>
