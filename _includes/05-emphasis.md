@@ -10,3 +10,7 @@ https://namrajp.github.io/markdown-portfolio/
 
 > This is blockquaote using greater than sign  
 > The glory of human life is to try and not give up.
+
+Another blockquote using greater than > and a space.
+> First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+George Carrette
