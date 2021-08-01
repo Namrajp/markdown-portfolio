@@ -22,7 +22,7 @@ layout: default
 
 <br>
 
-{% include 06-summary-dropdown.md %}
+{% include 07-summary-dropdown.md %}
 
 <br>
 {% include 06-Add-table.md %}
