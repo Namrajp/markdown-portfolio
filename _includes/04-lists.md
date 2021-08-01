@@ -11,10 +11,10 @@ I like playing guitar and singing. I like music of contemporary and country type
 - singing
 - dancing
 
-I like to Play:
-1 Playing Games like 
-  1.1 puzzles,
-  1.2
-2. Problem solving
-3. Coding with resursive function, algorithms.
-4. Take a good break like a day out in the bushland.
+I like to Play:  
+1 Playing Games like   
+  1.1 puzzles,  
+  1.2. 
+2. Problem solving. 
+3. Coding with resursive function, algorithms.  
+4. Take a good break like a day out in the bushland.  
