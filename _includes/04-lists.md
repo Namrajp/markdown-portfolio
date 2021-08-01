@@ -14,7 +14,8 @@ I like playing guitar and singing. I like music of contemporary and country type
 I like to Play:  
 1 Playing Games like   
   1.1 puzzles,  
-  1.2. 
+  1.2.
+  
 2. Problem solving. 
-3. Coding with resursive function, algorithms.  
+3. Coding with resursive function, algorithms.    
 4. Take a good break like a day out in the bushland.  
