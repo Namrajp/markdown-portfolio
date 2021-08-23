@@ -1,8 +1,8 @@
-## Your GitHub Learning Lab Repository for Communicating Using Markdown
+## Markdown for Communication or documentation
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+Welcome to **this awesome** repository. Github markdown is simple to use.  This documentation provides essentials to create a portfolio. A Heading with introduction, an image, some links and lists.
 
-Oh! I haven't introduced myself...
+Oh! I haven't introduced myself... I am Nava.
 
 I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
 
